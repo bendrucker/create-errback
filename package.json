@@ -1,0 +1,33 @@
+{
+  "name": "create-errback",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Compose a Node errback using an error and success handler",
+  "license": "MIT",
+  "repository": "bendrucker/create-errback",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "callback",
+    "errback",
+    "node",
+    "nodeify"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-function": "~1.0.0",
+    "to-array": "~0.1.4"
+  }
+}
