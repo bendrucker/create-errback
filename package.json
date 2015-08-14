@@ -1,7 +1,7 @@
 {
   "name": "create-errback",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Compose a Node errback using an error and success handler",
   "license": "MIT",
   "repository": "bendrucker/create-errback",
