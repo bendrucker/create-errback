@@ -1,4 +1,4 @@
-# create-errback [![Build Status](https://travis-ci.org/bendrucker/create-errback.svg?branch=master)](https://travis-ci.org/bendrucker/create-errback)
+# create-errback [![Build Status](https://travis-ci.org/bendrucker/create-errback.svg?branch=master)](https://travis-ci.org/bendrucker/create-errback) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/create-errback.svg)](https://greenkeeper.io/)
 
 > Compose a Node errback using an error and success handler
 
